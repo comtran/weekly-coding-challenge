@@ -5,6 +5,8 @@ challenging problem (bahasa Indonesia).
 
 ## Archive
 
+The password used for each problem is **therealcp**.
+
 | # | Links                  |
 |---|------------------------|
 | 1 | [Problem][P1] Solution |
